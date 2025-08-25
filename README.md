@@ -1,2 +1,2 @@
 # Simple_calculator
-Simple calculator written in rust
+Simple calculator that runs on terminal 
